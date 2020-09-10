@@ -1,5 +1,6 @@
 board = [' ' for x in range(10)]
 
+### just for git try
 
 def insertLetter(letter, pos):
     board[pos] = letter
